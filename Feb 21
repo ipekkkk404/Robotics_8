@@ -1,0 +1,8 @@
+print("welcome to youer adventure simulator i am going to ask you a bunch of questions and then create an epic story with you as the star!")
+myname=input("what is your name?")
+myenemy=input("what is your worst enemy's name?")
+mysuperpower=input("what is your superpower?")
+myhome=input("where do you live?")
+myfood=input("what is your favorite food?")
+print("Hello", name, "Your ability to", superPower, "will make sure you never have to look at", enemyName, "again." "Go eat", food, "as you walk down the streets of", live, "and use", superPower, "for good and not evil!")
+# Today I learned houw to use 
