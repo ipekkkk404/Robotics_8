@@ -9,7 +9,7 @@ if Glasses == "yes":
 else:
   print("Wrong!")
   WhoGlasses = input("And who wears glasses? ")
-  if WhoGlasses == "Leonard":
+  if WhoGlasses == "Ipek":
     print("You got it")
   else:
     print("Try again!")
